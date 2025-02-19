@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tallal02" alt="tallal02" /></a> </p>
 
-- 🔭 I’m currently working on [InfoMorph](https://github.com/hamzarehman2003/FYP_INFOMORPH)
+🔭 I’m currently working on [InfoMorph](https://github.com/hamzarehman2003/FYP_INFOMORPH)
 
-- 🌱 I’m currently learning **FastAPI, TensorFlow**
+🌱 I’m currently learning **FastAPI, TensorFlow**
 
-- 👯 I’m looking to collaborate on **AI/ML as well as Frontend projects**
+👯 I’m looking to collaborate on **AI/ML as well as Frontend projects**
 
-- 👨‍💻 All of my projects are available at [github.com/tallal02](github.com/tallal02)
+👨‍💻 All of my projects are available at [github.com/tallal02](github.com/tallal02)
 
-- 💬 Ask me about **exploring AI, ML, Python, React, JavaScript for innovation.**
+💬 Ask me about **exploring AI, ML, Python, React, JavaScript for innovation.**
 
-- 📫 How to reach me **mmtallal@gmail.com**
+📫 How to reach me **mmtallal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing](https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing](https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
