@@ -16,7 +16,7 @@
 
 📫 How to reach me **mmtallal@gmail.com**
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing](https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
