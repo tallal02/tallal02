@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tallal02" alt="tallal02" /></a> </p>
 
-🔭 I’m currently working on [InfoMorph](https://github.com/hamzarehman2003/FYP_INFOMORPH)
+🔭 I’m currently working on [InfoMorph](https://github.com/hamzarehman2003/FYP_INFOMORPH) (FYP)
 
 🌱 I’m currently learning **FastAPI, TensorFlow**
 
