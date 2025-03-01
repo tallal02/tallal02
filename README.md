@@ -10,7 +10,7 @@
 
 👯 I’m looking to collaborate on **AI/ML as well as Frontend projects**
 
-👨‍💻 All of my projects are available at [github.com/tallal02](github.com/tallal02)
+👨‍💻 All of my projects are available at [github.com/tallal02](https://github.com/tallal02)
 
 💬 Ask me about **exploring AI, ML, Python, React, JavaScript for innovation.**
 
