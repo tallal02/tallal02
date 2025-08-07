@@ -17,7 +17,7 @@
 💬 Ask me about **exploring AI, ML, Python, React, JavaScript for innovation.**  
 
 📫 Reach me at: **mmtallal@gmail.com**  
-🌐 [Portfolio Website](https://tallal02.github.io/)  
+🌐 [Portfolio Website](https://tallal-portfolio.vercel.app/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-tallal-eatazaz-/)
 
 ---
@@ -32,7 +32,7 @@
 
 ### 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-tallal-eatazaz/" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-tallal-eatazaz-/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:mmtallal@gmail.com" target="blank">
