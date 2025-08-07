@@ -15,11 +15,30 @@
 👯 I’m looking to collaborate on **AI/ML as well as Frontend projects**  
 👨‍💻 All of my projects are available at [github.com/tallal02](https://github.com/tallal02)  
 💬 Ask me about **exploring AI, ML, Python, React, JavaScript for innovation.**  
-📫 How to reach me: **mmtallal@gmail.com**  
 
-📄 [View My Resume](https://drive.google.com/file/d/1cCOXJ1uaVEsPA4jVUqHvUgQie-rQ3xad/view?usp=sharing)  
-🌐 [Portfolio Website](https://tallaleatazaz.dev)  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-tallal-eatazaz-/)
+📫 Reach me at: **mmtallal@gmail.com**  
+🌐 [Portfolio Website](https://tallal02.github.io/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-tallal-eatazaz-/)
+
+---
+
+### 📄 My Resumes  
+- [AI / ML Resume](https://drive.google.com/file/d/186OCmTDqBqGIR48NQhRYHEd0F_3i1Jye/view?usp=sharing) – Transformers, NLP, CV, FastAPI, PyTorch  
+- [Full Stack Resume](https://drive.google.com/file/d/1dFQeTl5hSGNmI-DGzG39Y8n_KHYQVJQs/view?usp=sharing) – React, Next.js, MongoDB, FastAPI  
+- [.NET Resume](https://drive.google.com/file/d/1mfpkeC3zSADL3gIOn9G2-_VsMsgIfoLu/view?usp=sharing) – ASP.NET Core, Entity Framework, Azure
+- [AWS Resume](https://drive.google.com/file/d/109souVXchBg2VLZ-UmtXL1gjf7xfImiL/view?usp=sharing) –  Transformers, FastAPI, Azure
+
+---
+
+### 📫 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-tallal-eatazaz/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:mmtallal@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
