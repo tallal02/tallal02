@@ -10,7 +10,7 @@
   </a>
 </p>
 
-🔭 I’m currently Job Hunting  
+🔭 I’m currently a Software Engineer @EUNOMATIX  
 🌱 I’ve recently learned **FastAPI, TensorFlow**  
 👯 I’m looking to collaborate on **AI/ML as well as Frontend projects**  
 👨‍💻 All of my projects are available at [github.com/tallal02](https://github.com/tallal02)  
